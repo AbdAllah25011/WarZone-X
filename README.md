@@ -50,4 +50,5 @@
 🔟 الأجهزة والمنصات المدعومة
 ✅ PC - Mobile - Web
 ✅ متوافق مع Windows, Android, macOS, iOS, Kali Linux
+![WarZone X Logo](https://raw.githubusercontent.com/AbdAllah25011/WarZone-X/main/warzonex_logo.png)
 
